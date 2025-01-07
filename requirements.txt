@@ -1,0 +1,12 @@
+subprocess
+gi
+Gtk
+Gdk
+Pango
+GLib
+GdkPixbuf
+os
+
+# Requirements for mic-mute-status project
+PyGObject
+```
